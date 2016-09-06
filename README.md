@@ -1,12 +1,6 @@
-### Get started
+### Find An Agent
 
-This is a simple boilerplate project for web designer/developer, it contains the following things:
-
-1.	Guardfile to watch changes
-2.	config.rb used for compass
-3.	A very simple HTML5 boilerplate file
-
-To use it, simply clone this repo and :
+To run it:
 
 ```sh
 $ bundle install
@@ -25,5 +19,3 @@ Once it's installed, open the page in browser, and click the `live reload` butto
 ```
 [1] guard(main)> 23:58:49 - INFO - Browser connected.
 ```
-
-That's it, have fun with coding more interesting stuff.
